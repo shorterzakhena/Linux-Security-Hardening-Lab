@@ -69,4 +69,4 @@ I checked my work after making the security changes to make sure everything was 
 - Linux command line
 - System troubleshooting
 - Technical documentation
-GitHub
+- GitHub
