@@ -70,3 +70,5 @@ I checked my work after making the security changes to make sure everything was 
 - System troubleshooting
 - Technical documentation
 - GitHub
+
+Author: Zakhena Shorter IT Professional | Recent IT Graduate
