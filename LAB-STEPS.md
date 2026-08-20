@@ -98,3 +98,5 @@ Commands I used:
 These commands allowed me to check the firewall, running services, listening ports, privileged files, and system warnings.
 
 **Screenshot: 06_security_audit.png**
+
+Author: Zakhena Shorter IT Professional | Recent IT Graduate
